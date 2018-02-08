@@ -6,7 +6,7 @@ Friend Finder - Node and Express Servers
 
 Creating a dating app using Node and Express Servers. This full-stack website will take in results from users input. The app will then display the name and picture of the user with the best overall match.
 
-<b>Deploying Node.js Apps on Heroku:</b> https://peaceful-meadow-23721.herokuapp.com/
+<b>Friend Finder is deployed to Heroku:</b> https://peaceful-meadow-23721.herokuapp.com/
 
 
 <b>NPM Packages</b>
@@ -15,8 +15,12 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 - path NPM Package - https://www.npmjs.com/package/path
 
 <b>Technologies Used:</b>
-- Javascript
 - nodeJS
+- Javascript
+- Express
+- HTML
+- Jquery
+- CSS
 
 <b>Prerequisites</b>
 - Node.js - Download the latest version of Node https://nodejs.org/en/
@@ -25,3 +29,6 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 <b>Built With</b>
 - Sublime Text - Text Editor
 - Materialize - CSS Framework based on Material Design
+
+<b>Acknowledgments</b>
+UC Berkeley Coding Boot Camp Staff
