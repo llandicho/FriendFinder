@@ -9,8 +9,8 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 <b>Friend Finder is deployed to Heroku:</b> https://peaceful-meadow-23721.herokuapp.com/
 
 
-<b>NPM Packages</b>
-- npm install express- https://www.npmjs.com/package/express
+<b>NPM Packages:</b>
+- npm install express - https://www.npmjs.com/package/express
 - npm install body-parser - https://www.npmjs.com/package/body-parser
 - npm install path - https://www.npmjs.com/package/path
 
@@ -22,13 +22,13 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 - Jquery
 - CSS
 
-<b>Prerequisites</b>
+<b>Prerequisites:</b>
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Materialize - Add CDN link to HTML http://materializecss.com/
 
-<b>Built With</b>
+<b>Built With:</b>
 - Sublime Text - Text Editor
 - Materialize - CSS Framework based on Material Design
 
-<b>Acknowledgments</b>
+<b>Acknowledgments:</b>
 - UC Berkeley Coding Boot Camp Staff
