@@ -10,9 +10,9 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 
 
 <b>NPM Packages</b>
-- body-parager NPM Package - https://www.npmjs.com/package/inquirer
-- express NPM Package - https://www.npmjs.com/package/express
-- path NPM Package - https://www.npmjs.com/package/path
+- npm install express- https://www.npmjs.com/package/express
+- npm install body-parser - https://www.npmjs.com/package/body-parser
+- npm install path - https://www.npmjs.com/package/path
 
 <b>Technologies Used:</b>
 - nodeJS
@@ -24,11 +24,11 @@ Creating a dating app using Node and Express Servers. This full-stack website wi
 
 <b>Prerequisites</b>
 - Node.js - Download the latest version of Node https://nodejs.org/en/
-- Materialize - Add CDN link to HTML http://materializecss.com/getting-started.html
+- Materialize - Add CDN link to HTML http://materializecss.com/
 
 <b>Built With</b>
 - Sublime Text - Text Editor
 - Materialize - CSS Framework based on Material Design
 
 <b>Acknowledgments</b>
-UC Berkeley Coding Boot Camp Staff
+- UC Berkeley Coding Boot Camp Staff
