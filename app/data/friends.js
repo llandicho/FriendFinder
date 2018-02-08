@@ -1,4 +1,6 @@
+
 //array that holds all the 'friends' that have taken the survey
+
 //initialize starting with 'dummy' data
 var friendList = [
   {
@@ -21,7 +23,7 @@ var friendList = [
 
   {
     name: 'Lou',
-    profilePic: 'http://cdn.akc.org/Ebook/11_SeniorDog.jpg',
+    profilePic: 'http://adogbreeds.com/wp-content/uploads/2014/08/Small-White-Pomeranian-Dog-Breeds-200x200.jpg',
     scores: [
       "4",
       "5",
@@ -39,7 +41,25 @@ var friendList = [
 
     {
     name: 'Lou',
-    profilePic: 'http://www.animalfriendsrescue.org/available/thumb/dog_callie.jpg',
+    profilePic: 'https://i.pinimg.com/236x/4c/05/5d/4c055dcd99404c8fd445fdc5194756cc--cutest-dogs-cute-puppies.jpg',
+    scores: [
+      "4",
+      "5",
+      "5",
+      "2",
+      "4",
+      "5",
+      "4",
+      "4",
+      "3",
+      "4"
+    ]
+  },
+
+
+    {
+    name: 'Lou',
+    profilePic: 'http://www.edailypost.com/wp-content/uploads/2012/06/Maltese-Cutest-Dog-Breeds.jpg',
     scores: [
       "4",
       "5",
