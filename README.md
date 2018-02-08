@@ -1,13 +1,12 @@
 # FriendFinder
 
-Week 13/ HW 11
+Week 13/HW 11
 
 Friend Finder - Node and Express Servers
 
 Creating a dating app using Node and Express Servers. This full-stack website will take in results from users input. The app will then display the name and picture of the user with the best overall match.
 
-<b>Deploying Node.js Apps on Heroku:</b>
-Survey: https://peaceful-meadow-23721.herokuapp.com/
+<b>Deploying Node.js Apps on Heroku:</b> https://peaceful-meadow-23721.herokuapp.com/
 
 
 <b>NPM Packages</b>
@@ -22,3 +21,7 @@ Survey: https://peaceful-meadow-23721.herokuapp.com/
 <b>Prerequisites</b>
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Materialize - Add CDN link to HTML http://materializecss.com/getting-started.html
+
+<b>Built With</b>
+- Sublime Text - Text Editor
+- Materialize - CSS Framework based on Material Design
